@@ -1,7 +1,6 @@
 ESTRATEGIA DE PRUEBAS - SAUCE DEMO
 
-Objetivo: Definir la estrategia de pruebas, para validar el correcto funcionamiento de la aplicación Sauce Demo, asegurando que las funcionalidades de aplicativo cumplan con los requisitos
-esperados antes de su liberación.
+Objetivo: Definir la estrategia de pruebas, para validar el correcto funcionamiento de la aplicación Sauce Demo, asegurando que las funcionalidades de aplicativo cumplan con los requisitos esperados antes de su liberación.
 
 Alcance de prueba
 
