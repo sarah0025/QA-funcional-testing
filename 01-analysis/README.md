@@ -16,8 +16,8 @@ Funcionalidades principales
 - Cierre de sesión
 
 Suposiciones
-- El ususario debe estar autenticado para acceder a la funcionalidades del sistema
+- El usuario debe estar autenticado para acceder a la funcionalidades del sistema
 - El sistema debe validar las credenciales de acceso
-- El sistema debe mostrar mensajes de error u alerta ante datos invalidos o acciones incorrectas
-- El carrito de compras debe mantener los productos seleccionados durante la sesión activaa
+- El sistema debe mostrar mensajes de error o alerta ante datos invalidos o acciones incorrectas
+- El carrito de compras debe mantener los productos seleccionados durante la sesión activa
 - El proceso de compra se completa solo si todos los datos requeridos son ingresados correctamente
