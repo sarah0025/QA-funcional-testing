@@ -10,9 +10,9 @@ Precondiciones:
 - El usuario cuenta con credenciales válidas
 
 Pasos:
-- Ingresar usuario válido
-- Ingresar contraseña válida
-- Hacer clic en el botón "Login"
+1. Ingresar usuario válido
+2. Ingresar contraseña válida
+3. Hacer clic en el botón "Login"
 
 Resultado esperado
 - El sistema permite el acceso
@@ -24,9 +24,9 @@ Precondiciones:
 - El usuario se encuentra ubicado en la página del login
 
 Pasos:
-- Ingresar usuario inválido
-- Ingresar contraseña válida
-- Hacer clic en el botón "Login"
+1. Ingresar usuario inválido
+2. Ingresar contraseña válida
+3. Hacer clic en el botón "Login"
 
 Resultado esperado
 - El sistema NO permite el acceso
@@ -52,9 +52,9 @@ Precondiciones:
 - El usuario se encuentra ubicado en la página del login
 
 Pasos:
--1 NO ingresar usuario 
--2 NO ingresar contraseña
--3 Hacer clic en el botón "Login"
+1. NO ingresar usuario 
+2. NO ingresar contraseña
+3. Hacer clic en el botón "Login"
 
 Resultado esperado
 - El sistema NO permite el acceso
