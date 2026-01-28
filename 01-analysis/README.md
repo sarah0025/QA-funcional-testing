@@ -1,6 +1,6 @@
 ANALISIS DEL SISTEMA - SAUCE DEMO
 
-Sauce Demo es una aplicación web de comercio electronico, que permite a los usuarios autenticaarse, visualizar productos, agregar productos al carrito y completar el proceso de compra.
+Sauce Demo es una aplicación web de comercio electronico, que permite a los usuarios autenticarse, visualizar productos, agregar productos al carrito y completar el proceso de compra.
 
 Tipo de usuario: Cliente
 
