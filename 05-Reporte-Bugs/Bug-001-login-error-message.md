@@ -7,6 +7,7 @@ Prioridad: Media
 Estado: Abierto
 
 DESCRIPCIÓN
+
 Al intentar iniciar sesión con credenciales inválidas, el sistema muestra un mensaje de error genérico que no especifica claramente el motivo del fallo, lo que puede generar confusión en el usuario
 
 PASOS PARA REPRODUCIR
@@ -16,10 +17,13 @@ PASOS PARA REPRODUCIR
 4. Hacer clic en el botón "Login"
 
 RESULTADO ESPERADO
+
 El sistema debe mostrar un mensaje de error claro indicando que las credenciales son incorrectas
 
 RESULTADO ACTUAL
+
 El sistema muestra un mensaje de error genérico sin detallar la causa del error
 
 EVIDENCIA
+
 Captura de pantalla del mensaje de error (ver carpeta "06-evidencias")
