@@ -1,1 +1,29 @@
+BUG 003 - Contador de carrito no se actualiza correctamente
 
+ID: BUG-003
+MODULO: Carrito de compras 
+SEVERIDAD: Media
+PRIORIDAD: Media
+ESTADO: Abierto
+
+DESCRIPCIÓN
+
+Al eliminar un producto del carrito de compras, el contador del carrito no se actualiza correctamente, lo que produce una inconsistencia
+entre los productos visibles y la cantidad indicada
+
+PASOS PARA REPRODUCIR
+1. Iniciar sesión con un usuario válido
+2. Agregar 2 productos al carrito
+3. Verificar que el contador del carrito muestre el número correcto 
+4. Acceder al carrito
+5. Eliminar uno de los productos
+
+RESULTADO ESPERADO
+- El contador del carrito debe actualizarse correctamente
+- La cantidad mostrada debe coincidir con los productos del carrito
+
+RESULTADO ACTUAL
+- El contador del carrito no refleja correctamente la cantidad actual de productos
+
+EVIDENCIA 
+- Captura de pantalla mostrando inconsistencia entre el carrito y el contador
