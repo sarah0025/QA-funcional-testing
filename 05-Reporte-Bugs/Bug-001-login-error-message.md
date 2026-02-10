@@ -16,11 +16,11 @@ PASOS PARA REPRODUCIR
 3. Ingresar una contraseña inválida
 4. Hacer clic en el botón "Login"
 
-RESULTADO ESPERADO
--El sistema debe mostrar un mensaje de error claro indicando que las credenciales son incorrectas
+RESULTADO ESPERADO:
+El sistema debe mostrar un mensaje de error claro indicando que las credenciales son incorrectas
 
-RESULTADO ACTUAL
--El sistema muestra un mensaje de error genérico sin detallar la causa del error
+RESULTADO ACTUAL:
+El sistema muestra un mensaje de error genérico sin detallar la causa del error
 
-EVIDENCIA
--Captura de pantalla del mensaje de error (ver carpeta "06-evidencias")
+EVIDENCIA:
+Captura de pantalla del mensaje de error (ver carpeta "06-evidencias")
